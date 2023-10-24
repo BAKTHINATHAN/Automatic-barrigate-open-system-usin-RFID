@@ -43,8 +43,8 @@ This project is an Arduino-based Advance Barricade System that utilizes RFID car
 
 ## Authors
 
-- [Your Name]
+- [Bakthinathan D]
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source.
